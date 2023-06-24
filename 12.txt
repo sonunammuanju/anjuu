@@ -4,3 +4,9 @@ integer_1=10
 integer_2=20
 print(integer_1 + integer_2)
 print(integer_1 / integer_2)
+number2=100.0
+print("The type of number2"type(number2))
+float_1=10.3
+float=20.9
+print(float_1 + float_2)
+print(float_1 - float_2)
