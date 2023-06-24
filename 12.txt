@@ -1,0 +1,6 @@
+number1=100
+print("the type of number1"type(number"))
+integer_1=10
+integer_2=20
+print(integer_1 + integer_2)
+print(integer_1 / integer_2)
